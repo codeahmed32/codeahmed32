@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm <a href="#">Ahmed Abdullah</a></h1>
-  <p><strong>Full-Stack Web Developer | Building Scalable Web Solutions</strong></p>
+  <p><strong>Full-Stack Web Developer & Software Engineer | Building Scalable Web Solutions</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -15,7 +15,7 @@
 ### 🚀 About Me
 - 🔭 **Currently working on:** Advanced web architectures and specialized full-stack products.
 - 🌱 **Learning Path:** Transitioning through **Data Engineering** towards **Machine Learning Engineering**.
-- 💬 **Expertise:** Ask me about **JavaScript, Python, C++ and the MERN Stack**.
+- 💬 **Expertise:** Ask me about **JavaScript, Python, C++, SQL, and the MERN Stack**.
 - 📫 **Contact:** Reach me at [abduallahahmad6782@gmail.com](mailto:abduallahahmad6782@gmail.com)
 - ⚡ **Fun Fact:** I speak fluent `JavaScript`, but my humor is still in `beta`.
 
@@ -53,7 +53,7 @@
 
 ### 📂 Featured Projects
 
-#### 🛡️ [AuthShield](https://github.com/codeahmed32)
+#### 🛡️ [AuthShield](https://github.com/codeahmed32/backend-project-login)
 * **Description:** A production-ready authentication and security system built using the MERN stack.
 * **Tech Stack:** MongoDB, Express.js, React, Node.js, JSON Web Tokens (JWT).
 * **Key Feature:** Provides secure token-based user management, protected routing, and robust state verification.
@@ -63,7 +63,7 @@
 * **Tech Stack:** React, Tailwind CSS, Vite, Framer Motion.
 * **Key Feature:** Mathematically computes a dynamic consistency score `(hits / targets * 100)` and auto-generates textual progress reports (`.txt`).
 
-#### 🔗 [URL Shortener Application](https://github.com/codeahmed32)
+#### 🔗 [URL Shortener Application](https://github.com/codeahmed32/url-shortner-front-end)
 * **Description:** A full-stack link optimization utility that converts long destination links into neat, short redirection links.
 * **Tech Stack:** JavaScript, Node.js, Frontend Engine, Web API Deployment.
 * **Key Feature:** Provides instantaneous HTTP route redirection and real-time validation checks.

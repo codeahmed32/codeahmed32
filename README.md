@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm <a href="#">Ahmed Abdullah</a></h1>
-  <p><strong>Full-Stack Web Developer & Software Engineer | Building Scalable Web Solutions</strong></p>
+  <p><strong>Full-Stack Web Developer | Building Scalable Web Solutions</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white" />
